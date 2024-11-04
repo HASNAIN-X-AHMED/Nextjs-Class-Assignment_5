@@ -10,7 +10,9 @@ const page = () => {
       
  <div className='flex justify-center items-start m-10'>
   <div className='w-1/2 mt-[100]'>
-  <h1 className='text-[23px] font-bold font-[Libre Bodoni] leading-10 tracking-[2.5%]'>IMPECCABLE CRAFTSMANSHIP AND FINESSE  </h1>
+ <div>
+ <h1 className='text-[23px] font-bold font-[Libre Bodoni]  w-4]'>IMPECCABLE CRAFTSMANSHIP AND FINESSE  </h1>
+ </div>
   <p className='text-[20px] text-[#a29875] mt-[15]'>An example of intricate workmanship and detail, elegant necklaces and long and short chains form a part of our desirable collection.</p>
 
   <button className='bg-[#A29875] text-[white] w-[160px] h-[30px] mt-[15] hover:bg-[#A29875] rounded-2xl'>Explore Now</button>
